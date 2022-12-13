@@ -6,3 +6,6 @@
 
 * Add example for the package.
 
+## 0.0.3
+
+* Remove unnecessary install instructions from README.md
