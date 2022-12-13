@@ -1,6 +1,6 @@
-# OpenAI Dall*2 Wrapper
+# OpenAI Dall*E2 Wrapper
 
-OpenAI Dall*2 Wrapper let's you generate AI generated images using open ai api endpoints.
+OpenAI Dall*E2 Wrapper let's you generate AI generated images using open ai api endpoints.
 
 ## Installation 
 
