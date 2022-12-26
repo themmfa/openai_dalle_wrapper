@@ -4,6 +4,8 @@ void main() async {
   final openai = OpenaiDalleWrapper(
     apiKey: "apiKey",
   );
+
+  /// Generate image from text
   final imagepath = await openai.generateImage("an astronout riding horse");
   print(imagepath);
 }
