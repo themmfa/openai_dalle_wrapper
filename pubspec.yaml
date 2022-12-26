@@ -1,6 +1,6 @@
 name: openai_dalle_wrapper
 description: OpenAI Dall*E Wrapper 
-version: 0.0.3
+version: 1.0.0
 homepage: https://github.com/themmfa/openai_dalle_wrapper
 
 environment:
