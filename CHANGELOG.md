@@ -9,3 +9,8 @@
 ## 0.0.3
 
 * Remove unnecessary install instructions from README.md
+
+## 1.0.0
+
+* Add DALL·E 2 image editing endpoints
+* Add documentation for current functions
